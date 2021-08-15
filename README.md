@@ -6,6 +6,8 @@ hpzcode.github.io
 
 [个人计划](https://hpzcode.github.io/plan)
 
+[有趣的东西](https://hpzcode.github.io/xswl)
+
 luogu:[houpingze(uid=253765)](https://www.luogu.com.cn/user/253765)
 
 codeforces:[houpingze](https://codeforces.com/profile/houpingze)
