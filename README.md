@@ -1,7 +1,7 @@
 # hpzcode.github.io 
 
-[备忘录](https://hpzcode.github.io/plan.html)
-[学习资源](https://hpzcode.github.io/study.html)
+[备忘录](https://hpzcode.github.io/plan.md)
+[学习资源](https://hpzcode.github.io/study.md)
 
 ## my blog:
 1. luogu blog:[link](https://kdthoupingze.blog.luogu.org/)
