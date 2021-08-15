@@ -1,5 +1,7 @@
 # hpzcode.github.io 
 
+[备忘录](https://hpzcode.github.io/plan.md)
+
 ## my blog:
 1. luogu blog:[link](https://kdthoupingze.blog.luogu.org/)
 2. gridea blog:[link](https://houpingze.github.io/)
