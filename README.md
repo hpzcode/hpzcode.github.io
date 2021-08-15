@@ -1,6 +1,6 @@
 # hpzcode.github.io 
 
-[备忘录](https://hpzcode.github.io/plan.md)
+[备忘录](https://hpzcode.github.io/plan.html)
 
 ## my blog:
 1. luogu blog:[link](https://kdthoupingze.blog.luogu.org/)
