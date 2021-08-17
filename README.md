@@ -4,7 +4,7 @@ hpzcode.github.io
 
 前排膜拜@[BleakPlus](https://coderbreakplus.github.io/)![qq_emoji: bx](https://z3.ax1x.com/2021/05/30/2VNbwQ.png)![qq_emoji: bx](https://z3.ax1x.com/2021/05/30/2VNbwQ.png)![qq_emoji: bx](https://z3.ax1x.com/2021/05/30/2VNbwQ.png)![qq_emoji: bx](https://z3.ax1x.com/2021/05/30/2VNbwQ.png)
 
-对网站基于了极大帮助![qq_emoji: bx](https://z3.ax1x.com/2021/05/30/2VNbwQ.png)![qq_emoji: bx](https://z3.ax1x.com/2021/05/30/2VNbwQ.png)![qq_emoji: bx](https://z3.ax1x.com/2021/05/30/2VNbwQ.png)![qq_emoji: bx](https://z3.ax1x.com/2021/05/30/2VNbwQ.png)
+对菜鸡hpz的小网站给予了极大帮助![qq_emoji: bx](https://z3.ax1x.com/2021/05/30/2VNbwQ.png)![qq_emoji: bx](https://z3.ax1x.com/2021/05/30/2VNbwQ.png)![qq_emoji: bx](https://z3.ax1x.com/2021/05/30/2VNbwQ.png)![qq_emoji: bx](https://z3.ax1x.com/2021/05/30/2VNbwQ.png)
 
 [学习资源](https://hpzcode.github.io/study)
 
