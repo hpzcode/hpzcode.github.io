@@ -2,6 +2,10 @@
 hpzcode.github.io
 ## houpingze is vegetable.(bushi
 
+前排膜拜@[BleakPlus](https://coderbreakplus.github.io/)![qq_emoji: bx](https://z3.ax1x.com/2021/05/30/2VNbwQ.png)![qq_emoji: bx](https://z3.ax1x.com/2021/05/30/2VNbwQ.png)![qq_emoji: bx](https://z3.ax1x.com/2021/05/30/2VNbwQ.png)![qq_emoji: bx](https://z3.ax1x.com/2021/05/30/2VNbwQ.png)
+
+对网站基于了极大帮助![qq_emoji: bx](https://z3.ax1x.com/2021/05/30/2VNbwQ.png)![qq_emoji: bx](https://z3.ax1x.com/2021/05/30/2VNbwQ.png)![qq_emoji: bx](https://z3.ax1x.com/2021/05/30/2VNbwQ.png)![qq_emoji: bx](https://z3.ax1x.com/2021/05/30/2VNbwQ.png)
+
 [学习资源](https://hpzcode.github.io/study)
 
 [个人计划](https://hpzcode.github.io/plan)
